@@ -1,5 +1,3 @@
-# budget-app-python
-
 📊 Budget Manager & Spend Tracker
 A robust Python-based personal finance tool that allows users to manage multiple budget categories, track deposits and withdrawals, and visualize spending habits through an ASCII-based bar chart.
 
@@ -28,7 +26,8 @@ Spend Analysis: The create_spend_chart function calculates the relative spending
 Ensure you have Python 3.x installed. Clone this repository:
 
 Bash
-git clone https://github.com/rishabhtrivedi9g-pixel/budget-app-python.git
+git clone https://github.com/
+rishabhtrivedi9g-pixel/budget-app.git
 cd budget-app
 2. Running the App
 You can use the Category class in your own scripts:

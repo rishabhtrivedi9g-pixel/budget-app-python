@@ -26,8 +26,7 @@ Spend Analysis: The create_spend_chart function calculates the relative spending
 Ensure you have Python 3.x installed. Clone this repository:
 
 Bash
-git clone https://github.com/
-rishabhtrivedi9g-pixel/budget-app.git
+git clone https://github.com/rishabhtrivedi9g-pixel/budget-app-python.git
 cd budget-app
 2. Running the App
 You can use the Category class in your own scripts:
